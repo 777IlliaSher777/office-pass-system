@@ -231,7 +231,7 @@ Adapters реалізують технічну поведінку системи
 
 # 4. Помилка: час поза робочими годинами
 
-![Project Structure](images/project-structure.png)
+![Project Structure](images/time-outside-of-working-hours.png)
 
 ## Опис
 
@@ -245,7 +245,7 @@ Adapters реалізують технічну поведінку системи
 
 ## Результат
 
-![Project Structure](images/project-structure.png)
+![Project Structure](images/time-outside-of-working-hours-result.png)
 
 ---
 
