@@ -251,7 +251,7 @@ Adapters реалізують технічну поведінку системи
 
 # 5. Помилка: порожнє ім’я відвідувача
 
-![Project Structure](images/project-structure.png)
+![Project Structure](images/empty-visitor-name.png)
 
 ## Опис
 
@@ -261,9 +261,7 @@ Adapters реалізують технічну поведінку системи
 
 ## Результат
 
-![Project Structure](images/project-structure.png)
-
-Шереметьєв Ілля Андрійович
+![Project Structure](images/empty-visitor-name-result.png)
 
 ---
 
