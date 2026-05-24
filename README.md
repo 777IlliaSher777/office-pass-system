@@ -197,7 +197,7 @@ Adapters реалізують технічну поведінку системи
 
 # 2. Помилка: дата у минулому
 
-![Project Structure](images/project-structure.png)
+![Project Structure](images/date-in-the-past.png)
 
 ## Опис
 
@@ -207,7 +207,7 @@ Adapters реалізують технічну поведінку системи
 
 ## Результат
 
-![Project Structure](images/project-structure.png)
+![Project Structure](images/date-in-the-past-result.png)
 
 ---
 
