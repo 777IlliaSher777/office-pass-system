@@ -176,7 +176,7 @@ Adapters реалізують технічну поведінку системи
 
 # 1. Успішне створення перепустки
 
-![Project Structure](images/Successfully created pass.png)
+![Project Structure](images/Successfully-created-pass.png)
 
 ## Опис
 
