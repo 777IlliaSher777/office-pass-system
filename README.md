@@ -213,7 +213,7 @@ Adapters реалізують технічну поведінку системи
 
 # 3. Помилка: неіснуючий співробітник
 
-![Project Structure](images/project-structure.png)
+![Project Structure](images/non-existent-employee.png)
 
 ## Опис
 
@@ -225,7 +225,7 @@ Adapters реалізують технічну поведінку системи
 
 ## Результат
 
-![Project Structure](images/project-structure.png)
+![Project Structure](images/non-existent-employee-result.png)
 
 ---
 
