@@ -191,7 +191,7 @@ Adapters реалізують технічну поведінку системи
 
 ## Результат
 
-![Project Structure](images/project-structure.png)
+![Project Structure](images/Successfully-created-pass-result.png)
 
 ---
 
